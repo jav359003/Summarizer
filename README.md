@@ -1,1 +1,1 @@
-This is a personal fullstack mern project. It is made for the purpose of summarizing youtube videos with the help Gemini 1.5
+This is a personal fullstack mern project. It is made for the purpose of summarizing youtube videos with the help Gemini 1.5  (API is unactive, need to find alternative soon)
